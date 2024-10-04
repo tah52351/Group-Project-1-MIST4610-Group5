@@ -1,5 +1,3 @@
-# Group5-Project1
-
 # Group 5 Mist 4610 Project 1
 
 # Team Name:
@@ -7,6 +5,7 @@
 39217 Group 5
 
 # Team Members:
+
 Becca Paden @
 Charlotte Moore @
 Gabe Hanes @
