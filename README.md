@@ -1,25 +1,25 @@
-# Group-Project-1
+# Group5-Project1
 
-Team 1 Mist 4610 Group Project 1
+# Group 5 Mist 4610 Project 1
 
-Team Name:
+# Team Name:
 
-21479 Group 1
+39217 Group 5
 
-Team Members:
+# Team Members:
+Becca Paden @
+Charlotte Moore @
+Gabe Hanes @
+Tyler Haleblian @
+Logan Carras @
 
-Taral Patel @taralpatel
-Angel Marsh @angelmarsh
-Riley Doggett @rileydoggett
-Ripley Kurtz@ripleykurtz
-Sequoyeth Simpson @sequoyethsimpson
-Problem Description:
+# Problem Description:
 
 The task at hand is to model and build a reltional database for the general workings of a resort company. The central entity in the model is the Hotel entity of the resort- Hotel being each physical inn the company owns and operates in various locations. The hotel is operated in conjunction with the activities, dining establishments, transportation service, etc. that it offers to the guests who book with them. We are interested in accurately modeling these relationships, generating sample data, and populating the entities and their attributes with this sample data. Furthermore, we are interested in performing functioning queries on this data so that they may provide us with valuable business insight about the resort and its operations.
 
-Data Model
+# Data Model
 
-Explanation of data model:
+  # Explanation of data model:
 
 Our model is based on the structure of a hypothetical vacation resort. The department entity is representative of a department (Finance, Human Resources, Food & Beverage, etc.) inside a resort location. Inside of this department, there are many employees, and this is represented by the one to many relationship we have placed between the Department and Employees entities.
 
