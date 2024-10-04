@@ -18,40 +18,18 @@
 
 # Data Model
 
-  # Explanation of data model:
+Explanation of data model:
 
-The database is well-suited for managing clothing e-commerce orders and tracking the specific clothes customers buy, when they buy them, and how those products are categorized. Like a real clothing store, the database maintains basic information from each customer in order to maintain a clientele record. It also keeps track of the orders from each customer, when it was ordered, where it is going to, and to what customer it is being sent to. In real clothing stores, every time a customer orders there will be an address, order date, and an order ID attached to a customer’s ID. This is shown in the database, and it is used to ensure successful delivery of the item. The database opens opportunities to sell a variety of clothing items that are specific in the name of the item, the price, size, color, and category (type). Categories (like Shirts, Hats, Dresses, Pants, etc) and subcategories (T-shirts, Long-sleeved shirts, tank tops, etc) are used to specify items for the consumer so they know exactly what they are ordering.
+The database is well-suited for managing clothing e-commerce orders and tracking the specific clothes customers buy, when they buy them, and how those products are categorized. Like a real clothing store, the database maintains basic information from each customer in order to maintain a clientele record. It also keeps track of the orders from each customer, when it was ordered, where it is going to, and to what customer it is being sent to. 
+
+In real clothing stores, every time a customer orders there will be an address, order date, and an order ID attached to a customer’s ID. This is shown in the database, and it is used to ensure successful delivery of the item. The database opens opportunities to sell a variety of clothing items that are specific in the name of the item, the price, size, color, and category (type). Categories (like Shirts, Hats, Dresses, Pants, etc) and subcategories (T-shirts, Long-sleeved shirts, tank tops, etc) are used to specify items for the consumer so they know exactly what they are ordering.
 
 
-Screen Shot 2023-03-30 at 9 42 10 PM
+# Data Dictionary:
 
-Data Dictionary:
+!!!
 
-Screen Shot 2023-03-30 at 9 47 17 PM
-
-Screen Shot 2023-03-30 at 9 47 45 PM
-
-Screen Shot 2023-03-30 at 9 48 13 PM
-
-Screen Shot 2023-03-30 at 9 55 12 PM
-
-Screen Shot 2023-03-30 at 9 55 31 PM
-
-Screen Shot 2023-03-30 at 9 56 18 PM
-
-Screen Shot 2023-03-30 at 9 56 39 PM
-
-Screen Shot 2023-03-30 at 9 57 21 PM
-
-Screen Shot 2023-03-30 at 9 57 51 PM
-
-Screen Shot 2023-03-30 at 9 58 07 PM
-
-Screen Shot 2023-03-30 at 9 58 29 PM
-
-Screen Shot 2023-03-30 at 9 58 48 PM
-
-Queries:
+# Queries:
 
 Screen Shot 2023-03-31 at 6 37 36 PM
 
