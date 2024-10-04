@@ -6,7 +6,7 @@
 
 # Team Members:
 
-1. Becca Paden @
+1. Becca Paden @beccapaden
 2. Charlotte Moore @
 3. Gabe Hanes @
 4. Tyler Haleblian @
@@ -24,6 +24,7 @@ The database is well-suited for managing clothing e-commerce orders and tracking
 
 In real clothing stores, every time a customer orders there will be an address, order date, and an order ID attached to a customer’s ID. This is shown in the database, and it is used to ensure successful delivery of the item. The database opens opportunities to sell a variety of clothing items that are specific in the name of the item, the price, size, color, and category (type). Categories (like Shirts, Hats, Dresses, Pants, etc) and subcategories (T-shirts, Long-sleeved shirts, tank tops, etc) are used to specify items for the consumer so they know exactly what they are ordering.
 
+<img width="530" alt="Screenshot 2024-10-04 at 1 15 00 PM" src="https://github.com/user-attachments/assets/e23e074d-aa6f-4bf7-940b-0bd35d0e2473">
 
 # Data Dictionary:
 
@@ -83,7 +84,7 @@ Screen Shot 2023-03-31 at 5 57 00 PM
 
 Query 10 allows the employees and customers to see what activities have not been booked yet, and the prices for these activities. The price is sorted in ascending order to make it easier to find the most affordable activities which most people are looking for. Activities are a huge part of the resort experience and using this script will make it easy for employees to find which activities are available as well as the prices for these activities.
 
-Database information:
+# Database information:
 
 Name of the database: ns_21479_1
 
