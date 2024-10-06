@@ -28,7 +28,17 @@ In real clothing stores, every time a customer orders there will be an address, 
 
 # Data Dictionary:
 
-!!!
+<img width="637" alt="Screenshot 2024-10-06 at 9 13 34 AM" src="https://github.com/user-attachments/assets/057226b7-8e8f-4081-9d46-2c311c6a4188">
+
+<img width="715" alt="Screenshot 2024-10-06 at 9 14 51 AM" src="https://github.com/user-attachments/assets/b8872602-b011-41d5-8d0d-23006cfadd47">
+
+<img width="715" alt="Screenshot 2024-10-06 at 9 15 12 AM" src="https://github.com/user-attachments/assets/5bf93c8e-e0b4-40c4-a70d-a95b4fb1deaf">
+
+<img width="617" alt="Screenshot 2024-10-06 at 9 16 46 AM" src="https://github.com/user-attachments/assets/a9c54651-a7af-4746-8edf-1ed35729282a">
+
+<img width="710" alt="Screenshot 2024-10-06 at 9 17 00 AM" src="https://github.com/user-attachments/assets/8d758c5f-b9e2-4b4f-8eea-9adb7b068308">
+
+<img width="708" alt="Screenshot 2024-10-06 at 9 17 21 AM" src="https://github.com/user-attachments/assets/6b3ef8cf-63ac-4423-9a05-62c4d24c5f56">
 
 # Queries:
 
