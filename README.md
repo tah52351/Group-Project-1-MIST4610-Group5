@@ -12,17 +12,15 @@
 4. Tyler Haleblian @
 5. Logan Carras @
 
-# Problem Description:
-
-!!!
-
-# Data Model
-
-Explanation of data model:
+# Scenario Description:
 
 The database is well-suited for managing clothing e-commerce orders and tracking the specific clothes customers buy, when they buy them, and how those products are categorized. Like a real clothing store, the database maintains basic information from each customer in order to maintain a clientele record. It also keeps track of the orders from each customer, when it was ordered, where it is going to, and to what customer it is being sent to. 
 
 In real clothing stores, every time a customer orders there will be an address, order date, and an order ID attached to a customer’s ID. This is shown in the database, and it is used to ensure successful delivery of the item. The database opens opportunities to sell a variety of clothing items that are specific in the name of the item, the price, size, color, and category (type). Categories (like Shirts, Hats, Dresses, Pants, etc) and subcategories (T-shirts, Long-sleeved shirts, tank tops, etc) are used to specify items for the consumer so they know exactly what they are ordering.
+
+# Data Model
+
+Explanation of data model:
 
 The Clothes entity represents the clothing items that will be sold at the store. Each clothing item belongs to one category but a category can (in a one-to-many relationship with the Categories table), and will contain a name, price, size, and color. For example, some clothing items may fall under the “Shirts” category or the “Sweatshirts” category. A specific clothing item can be included in many orders (many-to-many relationship with the Orders table) which mimics inventory styles of real clothing stores. 
 
