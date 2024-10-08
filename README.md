@@ -78,41 +78,41 @@ Query 3 allows management to easily reach customers with targeted email marketin
 
 Query 4 allows managers to analyze order addresses to optimize shipping routes and reduce delivery times, leading to more efficient logistics operations.
 
-5. Query 5 lists
+5. Query 5 lists the customers that ordered 2 or more pieces of clothing in their order.
    
-Screen Shot 
+<img width="1313" alt="Screenshot 2024-10-08 at 4 31 30 PM" src="https://github.com/user-attachments/assets/4851f40e-b01c-4948-be60-899b9ce393fe">
 
-Query 5 allows 
+Query 5 allows managers to view someone who ordered multiple items and target marketing towards them because they may be more likely to buy more clothing. 
 
-6. Query 6 lists
+6. Query 6 lists what types of items that each customer has purchased, and how many of each that person bought.
    
-Screen Shot 
+<img width="1313" alt="Screenshot 2024-10-08 at 4 31 40 PM" src="https://github.com/user-attachments/assets/127145ce-2303-41cd-878f-287decd48c61">
 
-Query 6 allows 
+Query 6 allows managers to determine which customers primarily purchase each type of clothing. Then they can effectively market to each person more efficiently.
 
-7. Query 7 lists
+7. Query 7 lists customers who have spent over $80 and how much they spent. 
+
+<img width="1313" alt="Screenshot 2024-10-08 at 4 31 50 PM" src="https://github.com/user-attachments/assets/630656f7-48cb-418f-a142-055d5af790cc">
+
+Query 7 allows managers can identify customers who have spent $80 or more in the clothing store. This data can help identify high-value customers who may be more likely to buy even more in the future. 
+
+8. Query 8 lists the average price of items bought by a customer, ordered by their size.
    
-Screen Shot 
+<img width="1313" alt="Screenshot 2024-10-08 at 4 32 06 PM" src="https://github.com/user-attachments/assets/d69bdb78-e0d4-4212-93e4-ff29d4a14ac8">
 
-Query 7 allows 
+Query 8 gives details about the customer as well as the amount and type of product they ordered. One can change the size and price to find what sizes are ordered by what demographic of customers. This information would be useful for business operations as management will be able to demand forecast for different sizes, target their marketing promotions, and order products that line up with the highest spending customers. 
 
-8. Query 8 lists
-   
-Screen Shot 
+9. Query 9 lists clothing id, product name, and quantity ordered in descending order. 
 
-Query 8 allows 
+<img width="1313" alt="Screenshot 2024-10-08 at 4 32 18 PM" src="https://github.com/user-attachments/assets/5df0e717-4e69-4205-9b86-a54fcbd9b3dc">
 
-9. Query 9 lists 
+Query 9 allows managers to know which items are ordered the most so they can ensure popular products are adequately stocked, preventing stock outs and lost sales. It helps in balancing inventory levels, ensuring that best-sellers are prioritized while minimizing excess stock of less popular items.
 
-Screen Shot 
-
-Query 9 allows 
-
-10. Query 10 lists
+10. Query 10 lists order that costs over $30 and had 2 or more items in the order.
     
-Screen Shot 
+<img width="1313" alt="Screenshot 2024-10-08 at 4 32 25 PM" src="https://github.com/user-attachments/assets/4853e482-25d2-4f07-a145-a87edce4f103">
 
-Query 10 allows 
+Query 10 allows managers to figure out what size boxes they need to buy to ship orders, and how often people place big orders. The $30 constraint is to ensure small items like stickers are not being purchased, so managers know that these orders therefore require the larger box. 
 
 # Database information:
 
