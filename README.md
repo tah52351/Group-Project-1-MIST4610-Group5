@@ -52,7 +52,7 @@ The Transaction table is used to represent a transaction in the clothing store. 
 
 # Queries:
 
-!!! Query Table 
+<img width="779" alt="Screenshot 2024-10-14 at 4 29 58 PM" src="https://github.com/user-attachments/assets/4507c887-da85-4dd6-9c3c-cbe8ae8d716a">
 
 1. Query 1 shows the total number of orders placed from the store.
 
