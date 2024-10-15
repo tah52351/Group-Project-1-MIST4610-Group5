@@ -118,6 +118,3 @@ Query 10 allows managers to figure out what size boxes they need to buy to ship 
 
 Name of the database: 
 ha_group5
-
-Additional information: 
-Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
