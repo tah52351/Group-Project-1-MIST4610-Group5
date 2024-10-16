@@ -7,7 +7,7 @@
 # Team Members:
 
 1. Becca Paden @beccapaden
-2. Charlotte Moore @
+2. Charlotte Moore @cem62831
 3. Gabe Hanes @
 4. Tyler Haleblian @
 5. Logan Carras @lgc52432
